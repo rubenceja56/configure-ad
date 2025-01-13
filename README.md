@@ -23,7 +23,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - First, 2 virtual machines. A client and a Domain controller.
 - Connect the client virtual machine DNS server to the Domain controller machine's DNS and disable firewall for internal comms.
 - Test and confirm connection.
-- Step 4
+- Set up Server Manager and promote virtual machine as Domain controller.
 
 <h2>Deployment and Configuration Steps</h2>
 
